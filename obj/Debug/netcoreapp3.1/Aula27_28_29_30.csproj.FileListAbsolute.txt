@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
