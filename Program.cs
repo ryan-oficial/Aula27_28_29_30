@@ -9,12 +9,12 @@ namespace Aula27_28_29_30
         {
             Produto p1 = new Produto();
             p1.Codigo = 2;
-            p1.Nome = "Pepsi";
+            p1.Nome = "Guarana Antartica";
             p1.Preco = 4.2f;
 
             p1.Cadastrar(p1);
 
-            p1.Remover("Macarrao");
+            p1.Remover("Kuat");
 
             List<Produto> lista = p1.Ler();
            
